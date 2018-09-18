@@ -21,4 +21,5 @@ public class Child {
     private String secondName;
     private String pesel;
     private String sex;
+    private int familyId;
 }

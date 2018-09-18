@@ -22,4 +22,5 @@ public class Father {
     private String secondName;
     private String pesel;
     private Date birthDate;
+    private int familyId;
 }
